@@ -1,0 +1,3 @@
+Subir a GitHub los 6 archivos SUELTOS (sin carpetas):
+index.html, manifest.json, sw.js, icon-192.png, icon-512.png, icon-maskable-512.png
+Si ya hay archivos viejos en el repositorio, reemplazalos (o borralos antes).
